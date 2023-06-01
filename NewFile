@@ -1,0 +1,25 @@
+Git commands
+pwd--change directory
+ls_list of files in git
+ls -la--list of files with hidden files along with information
+cd-- change directory
+cd ..--to come out of one folder
+mkdir foldername--to create folder
+vim filename- to create text file
+I--to write content inside file
+esc_to escape from the file
+:wq--to save and exit the file
+:q!:force close and quit the file with out saving
+cat Filename--to viewcontent of the file
+rm--to delete anyfile
+rmdir-- to delete any folder
+touch file.txt---to create empty file without opening in git hub just creates the file
+
+First we create a local repository(folder) when we don't have oneand make it as remote
+After creating a folder give 
+git init--it will create a git repository where all the information stored
+(main) branch we can change this  
+git log-- details or git log --stat
+git status--status of current repo
+git add * or git add file name
+git rm --cached---to unstage 
