@@ -25,3 +25,8 @@ git add * or git add file name
 git rm --cached---to unstage 
 git commit--to move files to stating means creating version then check git log will show the file commited
 .py file we can create python file
+2 versions created as I have given git init twice it got re intialized 1st one has 2 and 2nd version has 3 files 
+first link the remote to local copy paste then to check
+git remote -V
+then to push 
+git push -u origin master
