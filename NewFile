@@ -19,7 +19,9 @@ First we create a local repository(folder) when we don't have oneand make it as 
 After creating a folder give 
 git init--it will create a git repository where all the information stored
 (main) branch we can change this  
-git log-- details or git log --stat
+git log-- details or git log --stat thus can be done after commit
 git status--status of current repo
 git add * or git add file name
 git rm --cached---to unstage 
+git commit--to move files to stating means creating version then check git log will show the file commited
+.py file we can create python file
