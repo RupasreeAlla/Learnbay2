@@ -30,3 +30,14 @@ first link the remote to local copy paste then to check
 git remote -V
 then to push 
 git push -u origin master
+to clone goto git repo click on code then copt the link 
+git clone paste the link---will clone the entire repo to your local directory
+after making changes to add and push again use 
+git commit -a filename--to add and then push again
+to remove linkinguse
+git remote remove origin use
+git pull origin main
+git config --global user.name "your name"
+git config --global user.email "your email"
+
+
